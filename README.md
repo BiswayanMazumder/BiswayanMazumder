@@ -2,29 +2,29 @@
 <h1 align="center">Hi 👋, I'm Biswayan Mazumder</h1>
 <h3 align="center">A passionate full stack flutter developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"><br>
+<img align="center" alt="coding" width="1500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biswayanmazumder&label=Profile%20views&color=0e75b6&style=flat" alt="biswayanmazumder" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=biswayanmazumder&label=Profile%20views&color=0e75b6&style=flat" alt="biswayanmazumder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biswayanmazumder" alt="biswayanmazumder" /></a> </p>
 
-- 🔭 I’m currently working on an movie streaming app [NetFly](https://github.com/BiswayanMazumder/Netflyy)
+- 🔭 I’m currently working on a free movie streaming app **[NetFly](https://github.com/BiswayanMazumder/Netflyy)**
 
 - 🌱 I’m currently learning **RestAPI, Firebase, Java**
 
-- 🔭 I've worked on project to provide free education to children under poverty line [UAcadem](https://github.com/BiswayanMazumder/UAcadem)
+- 🔭 I've worked on project to provide free education to children under poverty line **[UAcadem](https://github.com/BiswayanMazumder/UAcadem)**
 
 - 🤝 Currently learning advanced topics in advanced DSA **Python**
 
-- 👨‍💻 All of my projects are available at [https://biswayanmazumder.wixsite.com/biswayanmazumder](https://biswayanmazumder.wixsite.com/biswayanmazumder)
+- 👨‍💻 All of my projects and also more about me are available at **[https://biswayanmazumder.wixsite.com/biswayanmazumder](https://biswayanmazumder.wixsite.com/biswayanmazumder)**
 
 - 💬 Ask me about **Flutter, Python**
 
 - 📫 How to reach me **biswayanmazumder27@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VS7nb8I9P1FndTc9PFMG7WWO4dfjQp6I/view?usp=sharing](https://drive.google.com/file/d/1VS7nb8I9P1FndTc9PFMG7WWO4dfjQp6I/view?usp=sharing)
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1VS7nb8I9P1FndTc9PFMG7WWO4dfjQp6I/view?usp=sharing](https://drive.google.com/file/d/1VS7nb8I9P1FndTc9PFMG7WWO4dfjQp6I/view?usp=sharing)**
 
-- ⚡ Fun fact **I think I am funny and relevant.😂**
+- ⚡ Fun fact **I think I am funny and relevant.😂 But I guess am not wrong let's meet and you can rate me out of 10.But yea coffee on me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,4 +41,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biswayanmazumder&show_icons=true&locale=en" alt="biswayanmazumder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biswayanmazumder&" alt="biswayanmazumder" /></p>
+
 
