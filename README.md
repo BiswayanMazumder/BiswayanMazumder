@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biswayanmazumder" alt="biswayanmazumder" /></a> </p>
 
-- 🔭 I’m currently working on a free movie streaming app **[NetFly](https://github.com/BiswayanMazumder/Netflyy)**
+- 🔭 I’m currently working on a free movie streaming app **[Grovito](https://github.com/BiswayanMazumder/Grovito)**
 
 - 🌱 I’m currently learning **RestAPI, Firebase, Java**
 
