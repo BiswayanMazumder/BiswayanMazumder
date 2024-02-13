@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **biswayanmazumder27@gmail.com**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1VS7nb8I9P1FndTc9PFMG7WWO4dfjQp6I/view?usp=sharing](https://drive.google.com/file/d/1VS7nb8I9P1FndTc9PFMG7WWO4dfjQp6I/view?usp=sharing)**
+- 📄 Know about my experiences **[Resume](https://docs.google.com/document/d/1AO10jiI3jzUGhJfqdUVx8MJ1IRN3od65/edit?usp=sharing&ouid=108356679216415334433&rtpof=true&sd=true)**
 
 - ⚡ Fun fact **I think I am funny and relevant.😂 But I guess am not wrong let's meet and you can rate me out of 10.But yea coffee on me**
 
