@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biswayanmazumder" alt="biswayanmazumder" /></a> </p>
 
-- 🔭 I’m currently working on an audio streaming app **[Grovito](https://github.com/BiswayanMazumder/Grovito)**
+- 🔭 I’m currently working on an social media app with shopping functionality **[FotoFusion](https://github.com/BiswayanMazumder/Fotofusion)**
 
 - 🌱 I’m currently learning **RestAPI, Firebase, Java**
 
