@@ -16,7 +16,7 @@
 
 - 🤝 Currently learning advanced topics in advanced DSA **Python**
 
-- 👨‍💻 All of my projects and also more about me are available at **[https://biswayanmazumder.wixsite.com/biswayanmazumder](https://biswayanmazumder.wixsite.com/biswayanmazumder)**
+- 👨‍💻 All of my projects and also more about me are available at **[Biswayan Mazumder](https://biswayanmazumder.vercel.app/)**
 
 - 💬 Ask me about **Flutter, Python**
 
