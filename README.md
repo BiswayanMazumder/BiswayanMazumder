@@ -14,7 +14,7 @@
 
 - 🔭 I've worked on project to provide free education to children under poverty line **[UAcadem](https://github.com/BiswayanMazumder/UAcadem)**
 
-- 🤝 Currently learning advanced topics in advanced DSA **Python**
+- 🤝 Currently learning web development **HTML** **CSS** **JavaScript**
 
 - 👨‍💻 All of my projects and also more about me are available at **[Biswayan Mazumder](https://biswayanmazumder.vercel.app/)**
 
