@@ -1,6 +1,6 @@
 ![logo](https://github.com/BiswayanMazumder/BiswayanMazumder/blob/main/_ebba1f40-8591-4a6f-b37d-c9d18f2632e3.jpeg)
 <h1 align="center">Hi 👋, I'm Biswayan Mazumder</h1>
-<h3 align="center">A passionate full stack flutter developer from India</h3>
+<h3 align="center">A passionate flutter developer from India</h3>
 
 <img align="center" alt="coding" width="1500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
