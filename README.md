@@ -10,11 +10,9 @@
 
 - 🔭 I’m currently working on an social media app with shopping functionality **[FotoFusion](https://github.com/BiswayanMazumder/Fotofusion)**
 
-- 🌱 I’m currently learning **RestAPI, Firebase, Java**
+- 🌱 I’m currently learning **RestAPI, Firebase**
 
 - 🔭 I've worked on project to provide free education to children under poverty line **[UAcadem](https://github.com/BiswayanMazumder/UAcadem)**
-
-- 🤝 Currently learning web development **HTML** **CSS** **JavaScript**
 
 - 👨‍💻 All of my projects and also more about me are available at **[Biswayan Mazumder](https://biswayanmazumder.vercel.app/)**
 
