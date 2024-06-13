@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **RestAPI, Firebase**
 
-- 🔭 I've worked on project to provide free education to children under poverty line **[UAcadem](https://github.com/BiswayanMazumder/UAcadem)**
+- 🔭 I've worked on an online food delivery app to deliver food based on user health conditions during my internship tenure
 
 - 👨‍💻 All of my projects and also more about me are available at **[Biswayan Mazumder](https://biswayanmazumder.vercel.app/)**
 
