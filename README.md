@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **RestAPI, Firebase**
 
-- 🔭 I've worked on an online food delivery app to deliver food based on user health conditions during my internship tenure
+- 🔭 I've worked on an online food delivery app that delivers food based on user health conditions during my internship tenure
 
 - 👨‍💻 All of my projects and also more about me are available at **[Biswayan Mazumder](https://biswayanmazumder.vercel.app/)**
 
