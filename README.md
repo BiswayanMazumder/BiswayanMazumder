@@ -1,43 +1,193 @@
-![logo](https://github.com/BiswayanMazumder/BiswayanMazumder/blob/main/_ebba1f40-8591-4a6f-b37d-c9d18f2632e3.jpeg)
-<h1 align="center">Hi 👋, I'm Biswayan Mazumder</h1>
-<h3 align="center">A passionate flutter and web developer from India</h3>
+<div align="center">
 
-<img align="center" alt="coding" width="1500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
- 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=biswayanmazumder&label=Profile%20views&color=0e75b6&style=flat" alt="biswayanmazumder" /> </p> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Biswayan%20Mazumder&fontSize=60&fontColor=00F0FF&animation=twinkling&fontAlignY=38&desc=Flutter%20%7C%20Backend%20%7C%20Security%20%7C%20Fintech%20Systems&descAlignY=55&descSize=20" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biswayanmazumder" alt="biswayanmazumder" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+bank-grade+fintech+systems;Flutter+%7C+Python+%7C+Flask+%7C+PostgreSQL;Securing+trading+platforms%2C+one+commit+at+a+time;Currently+engineering+Nexus+Exchange+%F0%9F%9A%80" alt="Typing SVG" />
 
-- 🔭 I’m currently working on an social media app with shopping functionality **[FotoFusion](https://github.com/BiswayanMazumder/Fotofusion)**
+<br/>
 
-- 🌱 I’m currently learning **RestAPI, Firebase**
+<img src="https://komarev.com/ghpvc/?username=biswayanmazumder&label=PROFILE%20VIEWS&color=00F0FF&style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/followers/biswayanmazumder?label=FOLLOWERS&style=for-the-badge&color=00F0FF&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20NEXUS%20EXCHANGE-00F0FF?style=for-the-badge&labelColor=0d1117"/>
 
-- 🔭 I've worked on an online food delivery app that delivers food based on user health conditions during my internship tenure
+</div>
 
-- 👨‍💻 All of my projects and also more about me are available at **[Biswayan Mazumder](https://biswayanmazumder.vercel.app/)**
+<br/>
 
-- 💬 Ask me about **Flutter, Python**
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
 
-- 📫 How to reach me **biswayanmazumder27@gmail.com**
+<h2 align="center">⚡ SYSTEM.OVERVIEW</h2>
 
-- 📄 Know about my experiences **[Resume](https://docs.google.com/document/d/1AO10jiI3jzUGhJfqdUVx8MJ1IRN3od65/edit?usp=sharing&ouid=108356679216415334433&rtpof=true&sd=true)**
+<table align="center">
+<tr>
+<td valign="top" width="55%">
 
-- ⚡ Fun fact **I think I am funny and relevant.😂 But I guess am not wrong let's meet and you can rate me out of 10.But yea coffee on me**
+```yaml
+whoami:
+  name: "Biswayan Mazumder"
+  role: "Flutter & Backend Developer"
+  based_in: "India"
+  focus:
+    - "Fintech / trading platform engineering"
+    - "API security & fraud detection systems"
+    - "Mobile app development (Flutter)"
+    - "Applied AI in backend security pipelines"
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/biswayan mazumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biswayan mazumder" height="30" width="40" /></a>
-<a href="https://instagram.com/itz_biswayan_for_you" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_biswayan_for_you" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/biswayanmazumder27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="biswayanmazumder27" height="30" width="40" /></a>
-</p>
+currently_building:
+  project: "Nexus Exchange"
+  description: >
+    A cryptocurrency trading platform with a
+    Flask backend, real-time market data,
+    WebAuthn/passkey auth, AI-driven fraud
+    detection, and a Flutter mobile client.
+  stack: [Flask, PostgreSQL, Firebase, Redis, Flutter]
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+currently_exploring:
+  - "API traffic interception & mobile security"
+  - "REST API design patterns"
+  - "Applied ML for anomaly / fraud detection"
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biswayanmazumder&show_icons=true&locale=en&layout=compact" alt="biswayanmazumder" /></p>
+fun_fact: >
+  I think I'm funny and relevant. 😂
+  Meet me, rate me out of 10 — coffee's on me either way.
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biswayanmazumder&show_icons=true&locale=en" alt="biswayanmazumder" /></p>
+</td>
+<td valign="top" width="45%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="100%">
+</td>
+</tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biswayanmazumder&" alt="biswayanmazumder" /></p>
+<br/>
 
+<h2 align="center">🛠️ TECH.STACK</h2>
 
+<div align="center">
+
+**Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=python,dart,flutter,js,html,css,cpp&theme=dark" /><br/><br/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=flask,postgres,redis,firebase,mysql&theme=dark" /><br/><br/>
+
+**Cloud, DevOps & Payments**
+
+<img src="https://skillicons.dev/icons?i=vercel,render,githubactions,git,github,postman&theme=dark" />
+<img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=00D09C"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/><br/><br/>
+
+**Tools & Design**
+
+<img src="https://skillicons.dev/icons?i=linux,arduino,ps,ai,vscode&theme=dark" />
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
+
+<h2 align="center">🔭 FEATURED.PROJECTS</h2>
+
+<div align="center">
+
+<a href="https://github.com/BiswayanMazumder/Fotofusion">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=biswayanmazumder&repo=Fotofusion&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=00F0FF" />
+</a>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💠 Nexus Exchange — Trading Platform
+A cryptocurrency exchange with real-time market data, wallet management, WebAuthn passkey auth, an AI-driven fraud/risk engine, scheduled transfers, KYC verification via multimodal AI, and a companion Flutter mobile app.
+
+`Flask` `PostgreSQL` `Firebase` `Redis` `AI Fraud Detection`
+
+</td>
+<td width="50%" valign="top">
+
+### 📸 FotoFusion
+A social media app with integrated shopping functionality — blending community feed features with e-commerce, built in Flutter.
+
+`Flutter` `Firebase` `REST API`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<h2 align="center">📊 ANALYTICS.MODULE</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=biswayanmazumder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswayanmazumder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=biswayanmazumder&theme=tokyonight&hide_border=true&background=0d1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=biswayanmazumder&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F0FF&line=00F0FF&point=ffffff" width="90%"/>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=biswayanmazumder&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7"/>
+</a>
+
+</div>
+
+<br/>
+
+<h2 align="center">📈 CONTRIBUTION.MATRIX</h2>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=biswayanmazumder&bg_color=0d1117&color=00F0FF&line=00F0FF&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Frequency" width="90%"/>
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines2.gif" width="100%">
+
+<h2 align="center">📡 CONNECT.CHANNELS</h2>
+
+<div align="center">
+
+<a href="https://biswayanmazumder.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+<a href="mailto:biswayanmazumder27@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/biswayan-mazumder" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://instagram.com/itz_biswayan_for_you" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/biswayanmazumder27" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💬 Ask me about
+`Flutter` • `Python / Flask` • `REST API design` • `Fintech backend systems` • `Application security`
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer"/>
+
+<div align="center">
+<sub>⚡ Built with curiosity, caffeine, and a healthy respect for edge cases. Thanks for stopping by!</sub>
+</div>
