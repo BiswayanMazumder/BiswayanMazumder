@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 54" width="210" height="54" role="img" aria-label="INSTAGRAM">
+<title>INSTAGRAM</title>
+<defs>
+<radialGradient id="bg" cx="50%" cy="45%" r="75%"><stop offset="0" stop-color="#17133a"/><stop offset=".55" stop-color="#0a0820"/><stop offset="1" stop-color="#04050d"/></radialGradient>
+<radialGradient id="neb1"><stop offset="0" stop-color="#9D7BFF" stop-opacity=".45"/><stop offset="1" stop-color="#9D7BFF" stop-opacity="0"/></radialGradient>
+<radialGradient id="neb2"><stop offset="0" stop-color="#FF3DCB" stop-opacity=".30"/><stop offset="1" stop-color="#FF3DCB" stop-opacity="0"/></radialGradient>
+<radialGradient id="neb3"><stop offset="0" stop-color="#00F0FF" stop-opacity=".28"/><stop offset="1" stop-color="#00F0FF" stop-opacity="0"/></radialGradient>
+<radialGradient id="planet" cx="35%" cy="30%" r="80%"><stop offset="0" stop-color="#7fe9ff"/><stop offset=".45" stop-color="#3b5bff"/><stop offset="1" stop-color="#0b0c3a"/></radialGradient>
+<linearGradient id="ttl" x1="0" x2="1"><stop offset="0" stop-color="#00F0FF"/><stop offset=".5" stop-color="#ffffff"/><stop offset="1" stop-color="#9D7BFF"/></linearGradient>
+<filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft"><feGaussianBlur stdDeviation="1.4"/></filter>
+</defs>
+<clipPath id="cl"><rect x="1" y="1" width="208" height="52" rx="7"/></clipPath><rect x="1" y="1" width="208" height="52" rx="7" fill="#070a1f" stroke="#FFB547" stroke-width="1.6"/><g clip-path="url(#cl)"><rect y="0" width="40" height="54" fill="#FFB547" opacity=".22" transform="skewX(-20)"><animate attributeName="x" values="-60;260" dur="3.2s" repeatCount="indefinite"/></rect></g><circle cx="22" cy="27" r="4" fill="#FFB547"><animate attributeName="opacity" values="1;.2;1" dur="1.4s" repeatCount="indefinite"/></circle><text x="113.0" y="32" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,Menlo,monospace" font-size="14" font-weight="800" fill="#FFB547" letter-spacing="2">INSTAGRAM</text><path d="M4,14 L4,4 L14,4" fill="none" stroke="#E6F7FF" stroke-width="1.4"/><path d="M206,40 L206,50 L196,50" fill="none" stroke="#E6F7FF" stroke-width="1.4"/>
+</svg>
