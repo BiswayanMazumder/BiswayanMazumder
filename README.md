@@ -8,7 +8,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=biswayanmazumder&label=PROFILE%20VIEWS&color=00F0FF&style=for-the-badge&labelColor=0d1117"/>
 <img src="https://img.shields.io/github/followers/biswayanmazumder?label=FOLLOWERS&style=for-the-badge&color=00F0FF&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/STATUS-BUILDING%20NEXUS%20EXCHANGE-00F0FF?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20NEXORA-00F0FF?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
